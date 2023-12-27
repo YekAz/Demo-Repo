@@ -1,3 +1,3 @@
 # DEMO
 
-This is a practice repo for git and gihub basics
+This is a practice repo for git and gihub basics...
